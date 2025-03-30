@@ -1,0 +1,77 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "I have big Skills in Front End Development!"
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Learning At the Monent! Just Let Me Cook 🤫"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "Not in My Compability At The Moment"
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow Development",
+            "description": "Too Yearly, But will Learn in Future"
+        }
+    ],
+    "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Working on this Project, Not available at the Moment.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Working on this Project, Not available at the Moment",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Working on this Project, Not available at the Moment",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Nice Website! Good Luck in Future",
+      "author_name": "John Mccartney",
+      "author_designation": "Starbucks Epmloyee"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Congralutions! Maybe we will work together one day!",
+      "author_name": "Tomas Rock",
+      "author_designation": "Louis Vuitton Director"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Cool Style! Keep fingers on! Good luck!",
+      "author_name": "Joe Maverick",
+      "author_designation": "McDonald's General Contributor"
+    }
+  ]
+}
