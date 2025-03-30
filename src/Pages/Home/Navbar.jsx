@@ -36,7 +36,7 @@ function Navbar(){
     return(
         <nav className={`navbar ${navActive ? "active" : ""}`}>
             <div>
-                <img src="https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg" width="auto" height="100px"alt="" />
+                <img src="https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg" width="auto" height="100px"alt=""/>
             </div>
             <a className={`nav__hamburger ${navActive ? "active" : ""} `} onClick={toogleNav}
             >
