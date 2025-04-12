@@ -1,5 +1,6 @@
 
 /* Global CSS */
+
 body {
     margin: 0;
     font-family: "Roboto", sans-serif;
@@ -241,7 +242,7 @@ h3 {
     display: flex;
     width: 50%;
     height: 50%;
-    margin-left: 425px;
+    margin-left: 350px;
     margin-top: 75px;
     border-radius: 10%;
 }
@@ -408,6 +409,16 @@ h3 {
 
 .portfolio--section--title {
     color: var(--heading-color);
+}
+
+.section--btn {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.section--btn:hover {
+    color: rgb(0, 0, 0);
 }
 
 .portfolio--link {
@@ -810,3 +821,4 @@ input[type="checkbox"] {
       transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
     }
 }
+
